@@ -21,7 +21,7 @@ a{
     background: linear-gradient(to right,
     white 80% , black 80% 100%);
     display: block;
-    border:2px solid green ;
+   
 }
 p{
     font-weight: bold;
